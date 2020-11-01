@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Rockmobile",
+      "image": "https://vignette.wikia.nocookie.net/toystory72/images/a/ab/Rockmobile.png/revision/latest/scale-to-width-down/220?cb=20190805231540",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ducky",
+      "image": "https://vignette.wikia.nocookie.net/toystory72/images/2/24/Ducky-1.jpg/revision/latest/scale-to-width-down/220?cb=20190728023725",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Legs",
+      "image": "https://vignette.wikia.nocookie.net/toystory72/images/6/6f/Legs.png/revision/latest/scale-to-width-down/340?cb=20190728024309",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Babyface",
+      "image": "https://i.pinimg.com/originals/cb/f7/78/cbf778b478d10eafb59667fca5ad2cb3.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Rollerbob",
+      "image": "https://i.pinimg.com/originals/5d/5f/e6/5d5fe654f9d5c11e61051a0785196766.jpg",
+      "likes": 2,
+      "id": 14
+    },
+    {
+      "name": "Walking Car",
+      "image": "https://static.wikia.nocookie.net/pixar/images/d/d0/Fullscreen_capture_4192020_51136_PM-removebg-preview.png/revision/latest?cb=20200902224203",
+      "likes": 0,
+      "id": 15
     }
   ]
 }
